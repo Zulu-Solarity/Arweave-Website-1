@@ -15,9 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Liquid Gold <br>
         </h1>
-<br>
-            <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={2048} height={2048} />
-
+            <Image src="/LiquidGold.jpeg" alt="Liquid Gold" width={2048} height={2048} />
       </main>
 
       <footer className={styles.footer}>
