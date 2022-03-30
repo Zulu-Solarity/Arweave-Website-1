@@ -53,13 +53,19 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className={styles.title}>
+      <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
         >
+            <main1 className={styles.main}>
+        <h11 className={styles.title}>
           Created by <a href="https://nextjs.org">Solarity</a>
+          </h11>
+          </main1>
+          
+          
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
