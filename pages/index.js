@@ -60,7 +60,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
             <main1 className={styles.main}>
-        <h11 className={styles.title}>
+        <h11 className={styles.description}>
           Created by <a href="https://nextjs.org">Solarity</a>
           </h11>
           </main1>
