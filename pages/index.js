@@ -55,7 +55,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
             
-        <h11 className={styles.description}>
+        <h11 className={styles.title}>
           Created by <a href="https://nextjs.org">Solarity</a>
           </h11>
          
