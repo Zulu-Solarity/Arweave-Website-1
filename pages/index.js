@@ -16,15 +16,10 @@ export default function Home() {
           NFT
         </h1>
 
-        <div className={styles.grid}>
-          <a
-            href="https://linktr.ee/Solarity_Zulu"
-            className={styles.card}
-          >
+
             <h2>Liquid Gold</h2>
             <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={2048} height={2048} />
-          </a>
-        </div>
+
       </main>
 
       <footer className={styles.footer}>
