@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Liquid Gold</title>
+        <title>Liquid Gold</title><br>
         <meta name="description" content="Solarity" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
