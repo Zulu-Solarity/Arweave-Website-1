@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Liquid Gold <br>
+          Liquid Gold <br />
         </h1>
             <Image src="/LiquidGold.jpeg" alt="Liquid Gold" width={2048} height={2048} />
       </main>
