@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Liquid Gold</title><br>
+        <title>Liquid Gold</title>
         <meta name="description" content="Solarity" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Liquid Gold
-        </h1>
+        </h1><br>
 
             <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={2048} height={2048} />
 
