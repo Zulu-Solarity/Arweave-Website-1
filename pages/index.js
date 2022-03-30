@@ -28,7 +28,7 @@ export default function Home() {
           >
             <h2>Deploy &rarr;</h2>
             <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={250} height={250} />
+            <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={250} height={250} />
           </span>
           </a>
         </div>
