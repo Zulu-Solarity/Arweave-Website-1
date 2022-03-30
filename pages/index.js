@@ -16,11 +16,6 @@ export default function Home() {
           NFT
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
@@ -28,7 +23,7 @@ export default function Home() {
           >
             <h2>Deploy &rarr;</h2>
             <span className={styles.logo}>
-            <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={250} height={250} />
+            <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={2048} height={2048} />
           </span>
           </a>
         </div>
