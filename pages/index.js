@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Liquid Gold <br><br>
+          Liquid Gold <br><br><br>
         </h1>
 
             <Image src="/LiquidGold.jpeg" alt="Vercel Logo" width={2048} height={2048} />
