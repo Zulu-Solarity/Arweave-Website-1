@@ -2,11 +2,8 @@
   padding: 0 2rem;
 }
 
-body {
-  background-color: #303030;
-}
-
 .main {
+  background-color: #303030;
   min-height: 100vh;
   padding: 4rem 0;
   flex: 1;
